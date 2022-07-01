@@ -1,0 +1,18 @@
+#container {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+}
+
+.row {
+    display: flex;
+}
+
+.grid {
+    height: 25px;
+    width: 25px;
+}
+
+.hover {
+    background-color: black;
+}
