@@ -1,6 +1,6 @@
 #container {
-    height: 400px;
-    width: 400px;
+    height: 960px;
+    width: 960px;
     border-style: solid;
 }
 
@@ -9,8 +9,8 @@
 }
 
 .grid {
-    height: 25px;
-    width: 25px;
+    height: 60px;
+    width: 60px;
 }
 
 .hover {
